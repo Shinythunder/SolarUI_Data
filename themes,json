@@ -1,0 +1,282 @@
+{
+  "Emerald": {
+    "bg": "#071a14",
+    "sidebar": "#0b241d",
+    "accent": "#10b981",
+    "text": "#ecfdf5",
+    "muted": "#6ee7b7",
+    "panel": "#123328"
+  },
+  "Amber": {
+    "bg": "#1b1203",
+    "sidebar": "#2a1c05",
+    "accent": "#fbbf24",
+    "text": "#fffbeb",
+    "muted": "#fcd34d",
+    "panel": "#3a2809"
+  },
+  "Sapphire": {
+    "bg": "#081426",
+    "sidebar": "#0d1d38",
+    "accent": "#2563eb",
+    "text": "#eff6ff",
+    "muted": "#93c5fd",
+    "panel": "#142a4d"
+  },
+  "Violet": {
+    "bg": "#140a22",
+    "sidebar": "#1d1030",
+    "accent": "#8b5cf6",
+    "text": "#f5f3ff",
+    "muted": "#c4b5fd",
+    "panel": "#291646"
+  },
+  "Ruby": {
+    "bg": "#22080d",
+    "sidebar": "#310d14",
+    "accent": "#dc2626",
+    "text": "#fef2f2",
+    "muted": "#fca5a5",
+    "panel": "#45131d"
+  },
+  "Cyberpunk": {
+    "bg": "#07070d",
+    "sidebar": "#0f1020",
+    "accent": "#ff00ff",
+    "text": "#f8fafc",
+    "muted": "#94a3b8",
+    "panel": "#17182d"
+  },
+  "Matrix": {
+    "bg": "#030603",
+    "sidebar": "#071007",
+    "accent": "#00ff66",
+    "text": "#d1fae5",
+    "muted": "#6ee7b7",
+    "panel": "#0b160b"
+  },
+  "Coffee": {
+    "bg": "#1a120d",
+    "sidebar": "#241912",
+    "accent": "#c08457",
+    "text": "#fef7ed",
+    "muted": "#d6b08c",
+    "panel": "#34241a"
+  },
+  "CherryBlossom": {
+    "bg": "#1f1117",
+    "sidebar": "#2c1821",
+    "accent": "#ff7eb6",
+    "text": "#fff1f5",
+    "muted": "#f9a8d4",
+    "panel": "#3c2230"
+  },
+  "Obsidian": {
+    "bg": "#050505",
+    "sidebar": "#0d0d0d",
+    "accent": "#71717a",
+    "text": "#fafafa",
+    "muted": "#a1a1aa",
+    "panel": "#171717"
+  },
+  "Aurora": {
+    "bg": "#08131d",
+    "sidebar": "#0d1c2b",
+    "accent": "#2dd4bf",
+    "text": "#f0fdfa",
+    "muted": "#99f6e4",
+    "panel": "#15283d"
+  },
+  "Volcano": {
+    "bg": "#170908",
+    "sidebar": "#240f0d",
+    "accent": "#ff5a36",
+    "text": "#fff7ed",
+    "muted": "#fdba74",
+    "panel": "#341714"
+  },
+  "Royal": {
+    "bg": "#120b25",
+    "sidebar": "#1a1233",
+    "accent": "#c084fc",
+    "text": "#faf5ff",
+    "muted": "#d8b4fe",
+    "panel": "#281a46"
+  },
+  "Glacier": {
+    "bg": "#09131a",
+    "sidebar": "#0f1c24",
+    "accent": "#67e8f9",
+    "text": "#ecfeff",
+    "muted": "#a5f3fc",
+    "panel": "#162832"
+  },
+  "Desert": {
+    "bg": "#1c1408",
+    "sidebar": "#291d0d",
+    "accent": "#eab308",
+    "text": "#fefce8",
+    "muted": "#fde047",
+    "panel": "#392911"
+  },
+  "Dracula": {
+    "bg": "#18181b",
+    "sidebar": "#23232b",
+    "accent": "#ff79c6",
+    "text": "#f8f8f2",
+    "muted": "#bd93f9",
+    "panel": "#2d2d38"
+  },
+  "Nord": {
+    "bg": "#2e3440",
+    "sidebar": "#3b4252",
+    "accent": "#88c0d0",
+    "text": "#eceff4",
+    "muted": "#81a1c1",
+    "panel": "#434c5e"
+  },
+  "Synthwave": {
+    "bg": "#14001f",
+    "sidebar": "#1d0030",
+    "accent": "#ff4fd8",
+    "text": "#f8faff",
+    "muted": "#67e8f9",
+    "panel": "#2a0045"
+  },
+  "Samurai": {
+    "bg": "#120707",
+    "sidebar": "#1d0b0b",
+    "accent": "#d4af37",
+    "text": "#fff7ed",
+    "muted": "#fbbf24",
+    "panel": "#2b1111"
+  },
+  "Toxic": {
+    "bg": "#0b1204",
+    "sidebar": "#121b08",
+    "accent": "#a3ff12",
+    "text": "#f7fee7",
+    "muted": "#bef264",
+    "panel": "#1d2a0d"
+  },
+  "DeepSea": {
+    "bg": "#020b14",
+    "sidebar": "#04121f",
+    "accent": "#00d4ff",
+    "text": "#e0f7ff",
+    "muted": "#67e8f9",
+    "panel": "#082033"
+  },
+  "Terminal": {
+    "bg": "#000000",
+    "sidebar": "#050505",
+    "accent": "#00ff00",
+    "text": "#ccffcc",
+    "muted": "#66cc66",
+    "panel": "#0d0d0d"
+  },
+  "Galaxy": {
+    "bg": "#0b1020",
+    "sidebar": "#121833",
+    "accent": "#8b5cf6",
+    "text": "#f8fafc",
+    "muted": "#c4b5fd",
+    "panel": "#1d2547"
+  },
+  "Copper": {
+    "bg": "#1a1008",
+    "sidebar": "#24160c",
+    "accent": "#b87333",
+    "text": "#fff7ed",
+    "muted": "#d6a679",
+    "panel": "#332014"
+  },
+  "IceFire": {
+    "bg": "#0a1016",
+    "sidebar": "#101925",
+    "accent": "#67e8f9",
+    "text": "#f8fafc",
+    "muted": "#f87171",
+    "panel": "#182535"
+  },
+  "Candy": {
+    "bg": "#2a1020",
+    "sidebar": "#37152b",
+    "accent": "#ff69b4",
+    "text": "#fff7fb",
+    "muted": "#f9a8d4",
+    "panel": "#4a1d39"
+  },
+  "Inferno": {
+    "bg": "#140606",
+    "sidebar": "#1f0909",
+    "accent": "#ff4500",
+    "text": "#fff5f5",
+    "muted": "#fb923c",
+    "panel": "#2d1010"
+  },
+  "Mint": {
+    "bg": "#071914",
+    "sidebar": "#0c241d",
+    "accent": "#34d399",
+    "text": "#ecfdf5",
+    "muted": "#6ee7b7",
+    "panel": "#13352a"
+  },
+  "Storm": {
+    "bg": "#0f1720",
+    "sidebar": "#17212c",
+    "accent": "#64748b",
+    "text": "#f8fafc",
+    "muted": "#94a3b8",
+    "panel": "#243140"
+  },
+  "Pearl": {
+    "bg": "#1b1c1f",
+    "sidebar": "#25272b",
+    "accent": "#e5e7eb",
+    "text": "#ffffff",
+    "muted": "#d1d5db",
+    "panel": "#31343a"
+  },
+  "Eclipse": {
+    "bg": "#050505",
+    "sidebar": "#0d0d0d",
+    "accent": "#facc15",
+    "text": "#fafafa",
+    "muted": "#a1a1aa",
+    "panel": "#171717"
+  },
+  "Neptune": {
+    "bg": "#071528",
+    "sidebar": "#0c1f38",
+    "accent": "#38bdf8",
+    "text": "#e0f2fe",
+    "muted": "#7dd3fc",
+    "panel": "#133050"
+  },
+  "Sakura": {
+    "bg": "#1d1016",
+    "sidebar": "#28161f",
+    "accent": "#ff8fab",
+    "text": "#fff1f5",
+    "muted": "#fbcfe8",
+    "panel": "#38202c"
+  },
+  "Ember": {
+    "bg": "#180d08",
+    "sidebar": "#24130c",
+    "accent": "#f97316",
+    "text": "#fff7ed",
+    "muted": "#fdba74",
+    "panel": "#351c12"
+  },
+  "Phantom": {
+    "bg": "#0a0a12",
+    "sidebar": "#10101b",
+    "accent": "#7c3aed",
+    "text": "#f5f3ff",
+    "muted": "#c4b5fd",
+    "panel": "#191927"
+  }
+}
