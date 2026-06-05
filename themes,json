@@ -278,5 +278,206 @@
     "text": "#f5f3ff",
     "muted": "#c4b5fd",
     "panel": "#191927"
+  },
+
+  "Sunset": {
+    "bg": "#1a0f0a",
+    "sidebar": "#26150f",
+    "accent": "#ff7a18",
+    "text": "#fff5ec",
+    "muted": "#ffc49a",
+    "panel": "#351c14"
+  },
+  "Midnight": {
+    "bg": "#050816",
+    "sidebar": "#0b1026",
+    "accent": "#4f46e5",
+    "text": "#eef2ff",
+    "muted": "#a5b4fc",
+    "panel": "#141b3a"
+  },
+  "Forest": {
+    "bg": "#07140d",
+    "sidebar": "#0c1f14",
+    "accent": "#22c55e",
+    "text": "#ecfdf5",
+    "muted": "#86efac",
+    "panel": "#14261c"
+  },
+  "Lagoon": {
+    "bg": "#06161a",
+    "sidebar": "#0b2329",
+    "accent": "#14b8a6",
+    "text": "#ecfeff",
+    "muted": "#5eead4",
+    "panel": "#16343c"
+  },
+  "NeonLime": {
+    "bg": "#0b1204",
+    "sidebar": "#121b08",
+    "accent": "#c6ff00",
+    "text": "#f7fee7",
+    "muted": "#d9ff7a",
+    "panel": "#1d2a0d"
+  },
+  "Arctic": {
+    "bg": "#08131a",
+    "sidebar": "#0d1c24",
+    "accent": "#60a5fa",
+    "text": "#f0f9ff",
+    "muted": "#93c5fd",
+    "panel": "#162532"
+  },
+  "Sandstorm": {
+    "bg": "#1b140a",
+    "sidebar": "#281e10",
+    "accent": "#f59e0b",
+    "text": "#fffbeb",
+    "muted": "#fcd34d",
+    "panel": "#372812"
+  },
+  "Twilight": {
+    "bg": "#120a1f",
+    "sidebar": "#1b1230",
+    "accent": "#a855f7",
+    "text": "#f5f3ff",
+    "muted": "#c4b5fd",
+    "panel": "#281a44"
+  },
+  "RoseGold": {
+    "bg": "#1a0f12",
+    "sidebar": "#26141a",
+    "accent": "#f472b6",
+    "text": "#fff1f2",
+    "muted": "#fbcfe8",
+    "panel": "#351a22"
+  },
+  "Steel": {
+    "bg": "#0f1418",
+    "sidebar": "#161c22",
+    "accent": "#94a3b8",
+    "text": "#f8fafc",
+    "muted": "#cbd5e1",
+    "panel": "#232a33"
+  },
+  "Mango": {
+    "bg": "#1a1206",
+    "sidebar": "#261b0a",
+    "accent": "#f59e0b",
+    "text": "#fff7ed",
+    "muted": "#fcd34d",
+    "panel": "#35250f"
+  },
+  "BlueLagoon": {
+    "bg": "#06131a",
+    "sidebar": "#0b1d29",
+    "accent": "#0ea5e9",
+    "text": "#e0f2fe",
+    "muted": "#7dd3fc",
+    "panel": "#143044"
+  },
+  "Cobalt": {
+    "bg": "#061226",
+    "sidebar": "#0b1a38",
+    "accent": "#1d4ed8",
+    "text": "#eff6ff",
+    "muted": "#93c5fd",
+    "panel": "#142a4d"
+  },
+  "Lavender": {
+    "bg": "#120a1a",
+    "sidebar": "#1b1226",
+    "accent": "#c084fc",
+    "text": "#faf5ff",
+    "muted": "#e9d5ff",
+    "panel": "#2a1b3a"
+  },
+  "Pine": {
+    "bg": "#06140f",
+    "sidebar": "#0b1f16",
+    "accent": "#10b981",
+    "text": "#ecfdf5",
+    "muted": "#6ee7b7",
+    "panel": "#14261d"
+  },
+  "Basil": {
+    "bg": "#0b1208",
+    "sidebar": "#121a0f",
+    "accent": "#84cc16",
+    "text": "#f7fee7",
+    "muted": "#bef264",
+    "panel": "#1e2a14"
+  },
+  "CoralReef": {
+    "bg": "#0a1416",
+    "sidebar": "#101e21",
+    "accent": "#fb7185",
+    "text": "#fff1f2",
+    "muted": "#fda4af",
+    "panel": "#1a2a2f"
+  },
+  "NightSky": {
+    "bg": "#050816",
+    "sidebar": "#0b1026",
+    "accent": "#38bdf8",
+    "text": "#f8fafc",
+    "muted": "#93c5fd",
+    "panel": "#141b3a"
+  },
+  "LavaRock": {
+    "bg": "#120707",
+    "sidebar": "#1d0b0b",
+    "accent": "#ef4444",
+    "text": "#fff5f5",
+    "muted": "#fca5a5",
+    "panel": "#2a1212"
+  },
+  "Frostbite": {
+    "bg": "#07131a",
+    "sidebar": "#0c1c24",
+    "accent": "#67e8f9",
+    "text": "#ecfeff",
+    "muted": "#a5f3fc",
+    "panel": "#142432"
+  },
+  "GoldenHour": {
+    "bg": "#1a1206",
+    "sidebar": "#261c0a",
+    "accent": "#fbbf24",
+    "text": "#fffbea",
+    "muted": "#fde68a",
+    "panel": "#35240f"
+  },
+  "SpaceGray": {
+    "bg": "#0f1115",
+    "sidebar": "#161a21",
+    "accent": "#9ca3af",
+    "text": "#f9fafb",
+    "muted": "#d1d5db",
+    "panel": "#232833"
+  },
+  "UltraViolet": {
+    "bg": "#0e0616",
+    "sidebar": "#160a24",
+    "accent": "#8b5cf6",
+    "text": "#f5f3ff",
+    "muted": "#c4b5fd",
+    "panel": "#24103a"
+  },
+  "SpringBloom": {
+    "bg": "#0b1a12",
+    "sidebar": "#12241a",
+    "accent": "#34d399",
+    "text": "#ecfdf5",
+    "muted": "#a7f3d0",
+    "panel": "#1a2f22"
+  },
+  "AutumnLeaf": {
+    "bg": "#1a1008",
+    "sidebar": "#26180f",
+    "accent": "#ea580c",
+    "text": "#fff7ed",
+    "muted": "#fdba74",
+    "panel": "#352113"
   }
 }
