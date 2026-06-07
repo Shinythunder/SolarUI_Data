@@ -479,5 +479,245 @@
     "text": "#fff7ed",
     "muted": "#fdba74",
     "panel": "#352113"
+  },
+  "Moonlight": {
+    "bg": "#0a0f1f",
+    "sidebar": "#11182d",
+    "accent": "#93c5fd",
+    "text": "#f8fafc",
+    "muted": "#cbd5e1",
+    "panel": "#1a2540"
+  },
+  "BloodMoon": {
+    "bg": "#140506",
+    "sidebar": "#1d0a0c",
+    "accent": "#dc2626",
+    "text": "#fef2f2",
+    "muted": "#fca5a5",
+    "panel": "#2b1013"
+  },
+  "Jade": {
+    "bg": "#061712",
+    "sidebar": "#0c231c",
+    "accent": "#14b8a6",
+    "text": "#ecfdf5",
+    "muted": "#99f6e4",
+    "panel": "#14352a"
+  },
+  "Platinum": {
+    "bg": "#121416",
+    "sidebar": "#1a1d20",
+    "accent": "#d4d4d8",
+    "text": "#fafafa",
+    "muted": "#a1a1aa",
+    "panel": "#25282c"
+  },
+  "Venom": {
+    "bg": "#040a04",
+    "sidebar": "#081208",
+    "accent": "#7fff00",
+    "text": "#f7fee7",
+    "muted": "#bef264",
+    "panel": "#102010"
+  },
+  "Abyss": {
+    "bg": "#020408",
+    "sidebar": "#050912",
+    "accent": "#2563eb",
+    "text": "#eff6ff",
+    "muted": "#93c5fd",
+    "panel": "#0b1220"
+  },
+  "Magenta": {
+    "bg": "#1c0618",
+    "sidebar": "#280a22",
+    "accent": "#ec4899",
+    "text": "#fdf2f8",
+    "muted": "#f9a8d4",
+    "panel": "#381132"
+  },
+  "Arsenal": {
+    "bg": "#140606",
+    "sidebar": "#1e0909",
+    "accent": "#ef4444",
+    "text": "#fff5f5",
+    "muted": "#fca5a5",
+    "panel": "#2c1010"
+  },
+  "ElectricBlue": {
+    "bg": "#05111f",
+    "sidebar": "#08192d",
+    "accent": "#00bfff",
+    "text": "#f0f9ff",
+    "muted": "#7dd3fc",
+    "panel": "#11263f"
+  },
+  "Radioactive": {
+    "bg": "#0a1202",
+    "sidebar": "#121b04",
+    "accent": "#d9ff00",
+    "text": "#f7fee7",
+    "muted": "#ecfccb",
+    "panel": "#1c2908"
+  },
+  "BlackIce": {
+    "bg": "#03070b",
+    "sidebar": "#071018",
+    "accent": "#7dd3fc",
+    "text": "#f8fafc",
+    "muted": "#cbd5e1",
+    "panel": "#101a24"
+  },
+  "Cosmos": {
+    "bg": "#09061a",
+    "sidebar": "#120d29",
+    "accent": "#a855f7",
+    "text": "#faf5ff",
+    "muted": "#d8b4fe",
+    "panel": "#1f1740"
+  },
+  "Honey": {
+    "bg": "#1a1205",
+    "sidebar": "#261b08",
+    "accent": "#fbbf24",
+    "text": "#fffdf5",
+    "muted": "#fde68a",
+    "panel": "#35260e"
+  },
+  "Seafoam": {
+    "bg": "#071513",
+    "sidebar": "#0c211d",
+    "accent": "#2dd4bf",
+    "text": "#f0fdfa",
+    "muted": "#99f6e4",
+    "panel": "#13312b"
+  },
+  "RetroWave": {
+    "bg": "#17001f",
+    "sidebar": "#22002d",
+    "accent": "#ff3cac",
+    "text": "#fdf4ff",
+    "muted": "#c084fc",
+    "panel": "#320043"
+  },
+  "Titanium": {
+    "bg": "#101214",
+    "sidebar": "#171a1d",
+    "accent": "#c0c7cf",
+    "text": "#f8fafc",
+    "muted": "#94a3b8",
+    "panel": "#23282d"
+  },
+  "CrimsonNight": {
+    "bg": "#120507",
+    "sidebar": "#1b0a0d",
+    "accent": "#f43f5e",
+    "text": "#fff1f2",
+    "muted": "#fda4af",
+    "panel": "#290f14"
+  },
+  "ElectricPurple": {
+    "bg": "#10061a",
+    "sidebar": "#170a26",
+    "accent": "#a855f7",
+    "text": "#faf5ff",
+    "muted": "#d8b4fe",
+    "panel": "#24103a"
+  },
+  "Tundra": {
+    "bg": "#10181b",
+    "sidebar": "#182328",
+    "accent": "#7dd3fc",
+    "text": "#f0f9ff",
+    "muted": "#bae6fd",
+    "panel": "#24333a"
+  },
+  "Orchid": {
+    "bg": "#180a18",
+    "sidebar": "#241024",
+    "accent": "#e879f9",
+    "text": "#fdf4ff",
+    "muted": "#f5d0fe",
+    "panel": "#351635"
+  },
+  "Evergreen": {
+    "bg": "#05120c",
+    "sidebar": "#0a1b12",
+    "accent": "#16a34a",
+    "text": "#f0fdf4",
+    "muted": "#86efac",
+    "panel": "#13271d"
+  },
+  "Blueberry": {
+    "bg": "#090d1f",
+    "sidebar": "#101632",
+    "accent": "#6366f1",
+    "text": "#eef2ff",
+    "muted": "#a5b4fc",
+    "panel": "#1a2145"
+  },
+  "Firefly": {
+    "bg": "#0a1205",
+    "sidebar": "#101b09",
+    "accent": "#84cc16",
+    "text": "#f7fee7",
+    "muted": "#d9f99d",
+    "panel": "#1a290f"
+  },
+  "Coral": {
+    "bg": "#1a0d0d",
+    "sidebar": "#261414",
+    "accent": "#fb7185",
+    "text": "#fff1f2",
+    "muted": "#fda4af",
+    "panel": "#351c1c"
+  },
+  "Void": {
+    "bg": "#020202",
+    "sidebar": "#080808",
+    "accent": "#8b5cf6",
+    "text": "#fafafa",
+    "muted": "#a1a1aa",
+    "panel": "#121212"
+  },
+  "Laguna": {
+    "bg": "#05141a",
+    "sidebar": "#0a2029",
+    "accent": "#06b6d4",
+    "text": "#ecfeff",
+    "muted": "#a5f3fc",
+    "panel": "#12303c"
+  },
+  "Bronze": {
+    "bg": "#181008",
+    "sidebar": "#24170c",
+    "accent": "#cd7f32",
+    "text": "#fff7ed",
+    "muted": "#fbbf24",
+    "panel": "#332114"
+  },
+  "Bubblegum": {
+    "bg": "#220f1a",
+    "sidebar": "#311525",
+    "accent": "#ff5ca8",
+    "text": "#fff7fb",
+    "muted": "#f9a8d4",
+    "panel": "#451d35"
+  },
+  "DeepSpace": {
+    "bg": "#030712",
+    "sidebar": "#07101f",
+    "accent": "#3b82f6",
+    "text": "#eff6ff",
+    "muted": "#93c5fd",
+    "panel": "#0f1a33"
+  },
+  "SolarFlare": {
+    "bg": "#1a0c04",
+    "sidebar": "#261207",
+    "accent": "#fb923c",
+    "text": "#fff7ed",
+    "muted": "#fdba74",
+    "panel": "#351a0d"
   }
 }
