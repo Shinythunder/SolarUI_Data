@@ -47,14 +47,6 @@
     "muted": "#94a3b8",
     "panel": "#17182d"
   },
-  "Matrix": {
-    "bg": "#030603",
-    "sidebar": "#071007",
-    "accent": "#00ff66",
-    "text": "#d1fae5",
-    "muted": "#6ee7b7",
-    "panel": "#0b160b"
-  },
   "Coffee": {
     "bg": "#1a120d",
     "sidebar": "#241912",
