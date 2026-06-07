@@ -1,1 +1,28 @@
+{
+    "modules": [
+                {
+                    "name": "Test Module",
+                    "version": "1.0.0",
+                    "description": "A simple test module",
+                    "author": ["SolarUI Team"],
+                    "background_image": "<BASE64_ENCODED_IMAGE>",
+                    "uuid": "df0221b3-6e0f-4711-8c5e-3f985020aa34",
+                    "scripts": [
+                        {
+                            "name": "Alert Hello World",
+                            "description": "Displays an alert with 'Hello World'",
+                            "type": "button()",
+                            "script": "YWxlcnQoIkhlbGxvIFdvcmxkIik="
+                        },
+                        {
+                            "name": "Alert Input Value",
+                            "description": "Displays an alert with the value from an input field",
+                            "type": "input('Enter something', i)",
+                            "script": "YWxlcnQoaSk="
+                        }
 
+                    ]
+     }
+    ]
+
+}
