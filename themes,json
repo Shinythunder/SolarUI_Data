@@ -55,14 +55,6 @@
     "muted": "#d6b08c",
     "panel": "#34241a"
   },
-  "CherryBlossom": {
-    "bg": "#1f1117",
-    "sidebar": "#2c1821",
-    "accent": "#ff7eb6",
-    "text": "#fff1f5",
-    "muted": "#f9a8d4",
-    "panel": "#3c2230"
-  },
   "Obsidian": {
     "bg": "#050505",
     "sidebar": "#0d0d0d",
@@ -335,14 +327,6 @@
     "text": "#f5f3ff",
     "muted": "#c4b5fd",
     "panel": "#281a44"
-  },
-  "RoseGold": {
-    "bg": "#1a0f12",
-    "sidebar": "#26141a",
-    "accent": "#f472b6",
-    "text": "#fff1f2",
-    "muted": "#fbcfe8",
-    "panel": "#351a22"
   },
   "Steel": {
     "bg": "#0f1418",
