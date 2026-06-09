@@ -17,7 +17,7 @@
                         {
                             "name": "Alert Input Value",
                             "description": "Displays an alert with the value from an input field",
-                            "type": "input('Enter something', i)",
+                            "type": "input('Enter something')",
                             "script": "YWxlcnQoaSk="
                         }
 
