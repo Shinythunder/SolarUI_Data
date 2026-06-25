@@ -47,30 +47,6 @@
     "muted": "#d8b4fe",
     "panel": "#281a46"
   },
-  "Dracula": {
-    "bg": "#18181b",
-    "sidebar": "#23232b",
-    "accent": "#ff79c6",
-    "text": "#f8f8f2",
-    "muted": "#bd93f9",
-    "panel": "#2d2d38"
-  },
-  "Nord": {
-    "bg": "#2e3440",
-    "sidebar": "#3b4252",
-    "accent": "#88c0d0",
-    "text": "#eceff4",
-    "muted": "#81a1c1",
-    "panel": "#434c5e"
-  },
-  "Synthwave": {
-    "bg": "#14001f",
-    "sidebar": "#1d0030",
-    "accent": "#ff4fd8",
-    "text": "#f8faff",
-    "muted": "#67e8f9",
-    "panel": "#2a0045"
-  },
   "Inferno": {
     "bg": "#140606",
     "sidebar": "#1f0909",
@@ -119,38 +95,6 @@
     "muted": "#a5b4fc",
     "panel": "#141b3a"
   },
-  "Forest": {
-    "bg": "#07140d",
-    "sidebar": "#0c1f14",
-    "accent": "#22c55e",
-    "text": "#ecfdf5",
-    "muted": "#86efac",
-    "panel": "#14261c"
-  },
-  "Arctic": {
-    "bg": "#08131a",
-    "sidebar": "#0d1c24",
-    "accent": "#60a5fa",
-    "text": "#f0f9ff",
-    "muted": "#93c5fd",
-    "panel": "#162532"
-  },
-  "Mango": {
-    "bg": "#1a1206",
-    "sidebar": "#261b0a",
-    "accent": "#f59e0b",
-    "text": "#fff7ed",
-    "muted": "#fcd34d",
-    "panel": "#35250f"
-  },
-  "Cobalt": {
-    "bg": "#061226",
-    "sidebar": "#0b1a38",
-    "accent": "#1d4ed8",
-    "text": "#eff6ff",
-    "muted": "#93c5fd",
-    "panel": "#142a4d"
-  },
   "Lavender": {
     "bg": "#120a1a",
     "sidebar": "#1b1226",
@@ -158,53 +102,5 @@
     "text": "#faf5ff",
     "muted": "#e9d5ff",
     "panel": "#2a1b3a"
-  },
-  "NightSky": {
-    "bg": "#050816",
-    "sidebar": "#0b1026",
-    "accent": "#38bdf8",
-    "text": "#f8fafc",
-    "muted": "#93c5fd",
-    "panel": "#141b3a"
-  },
-  "AutumnLeaf": {
-    "bg": "#1a1008",
-    "sidebar": "#26180f",
-    "accent": "#ea580c",
-    "text": "#fff7ed",
-    "muted": "#fdba74",
-    "panel": "#352113"
-  },
-  "BloodMoon": {
-    "bg": "#140506",
-    "sidebar": "#1d0a0c",
-    "accent": "#dc2626",
-    "text": "#fef2f2",
-    "muted": "#fca5a5",
-    "panel": "#2b1013"
-  },
-  "ElectricBlue": {
-    "bg": "#05111f",
-    "sidebar": "#08192d",
-    "accent": "#00bfff",
-    "text": "#f0f9ff",
-    "muted": "#7dd3fc",
-    "panel": "#11263f"
-  },
-  "RetroWave": {
-    "bg": "#17001f",
-    "sidebar": "#22002d",
-    "accent": "#ff3cac",
-    "text": "#fdf4ff",
-    "muted": "#c084fc",
-    "panel": "#320043"
-  },
-  "Laguna": {
-    "bg": "#05141a",
-    "sidebar": "#0a2029",
-    "accent": "#06b6d4",
-    "text": "#ecfeff",
-    "muted": "#a5f3fc",
-    "panel": "#12303c"
   }
 }
