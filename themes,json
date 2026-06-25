@@ -47,14 +47,6 @@
     "muted": "#d8b4fe",
     "panel": "#281a46"
   },
-  "Inferno": {
-    "bg": "#140606",
-    "sidebar": "#1f0909",
-    "accent": "#ff4500",
-    "text": "#fff5f5",
-    "muted": "#fb923c",
-    "panel": "#2d1010"
-  },
   "Storm": {
     "bg": "#0f1720",
     "sidebar": "#17212c",
